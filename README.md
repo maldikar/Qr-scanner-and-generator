@@ -1,0 +1,1 @@
+# Qr-scanner-and-generator
